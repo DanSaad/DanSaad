@@ -24,6 +24,3 @@ Documentation and projects associated with various cybersecurity certifications.
 ### 🚀 Personal Projects
 A collection of personal projects, tools, and write-ups showcasing my practical skills and learning journey.
 - [Phishing Bot Utility for Cybersecurity Training](https://github.com/DanSaad/angler-education/blob/main/README.md)
-
----
-[Certificates](./Certificates/Certifications.md) | [Home Lab](./HomeLab/Setup.md) | [Projects](./Projects/Overview.md)
