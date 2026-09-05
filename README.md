@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 ## Introduction
-Welcome to my cybersecurity portfolio! I am a passionate cybersecurity enthusiast dedicated to identifying vulnerabilities, securing systems, and learning the intricacies of cyber defense and offense.
+Welcome to my cybersecurity portfolio. As a Carnegie Mellon University graduate with a B.S. in Electrical and Computer Engineering, I bring a rigorous engineering foundation to the world of cybersecurity. I am dedicated to identifying vulnerabilities and securing complex systems through a deep understanding of both cyber defense and offensive methodologies.
 
 ## Skills
 - **Vulnerability Assessment**
@@ -24,3 +24,6 @@ Documentation and projects associated with various cybersecurity certifications.
 ### 🚀 Personal Projects
 A collection of personal projects, tools, and write-ups showcasing my practical skills and learning journey.
 - [Phishing Bot Utility for Cybersecurity Training](https://github.com/DanSaad/angler-education/blob/main/README.md)
+
+---
+[LinkedIn](linkedin.com/in/dan-saad) | dsaad@alumni.cmu.edu
