@@ -14,7 +14,7 @@ Welcome to my cybersecurity portfolio. As a Carnegie Mellon University graduate 
 ## Portfolio Sections
 
 ### 📜   Certificate Related Work
-Documentation and projects associated with various cybersecurity certifications.
+Documentation and projects associated with my professional certifications.
 [View Certifications](./Certificates/Certifications.md)
 - [GRC Portfolio:](./GRC/) Projects related to the governance, risk, and compliance domain.
 - [IAM Portfolio:](./IAM_SysAdm_SecOps/) Projects related to identity and access management and system administration.
